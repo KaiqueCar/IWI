@@ -1,0 +1,8 @@
+body{font-family: Arial, Helvetica, sans-serif; }
+table{width: 500px; border-collapse: collapse;  }
+td.mum{text-align: center; background-color: black; color: aliceblue;}
+td.mu{text-align:right}
+td.m{text-align: right; background-color: black; color: aliceblue;}
+td{padding: 10px; }
+caption{text-align: center; font-size: 16px; background-color: darkgray; color: black;}
+
